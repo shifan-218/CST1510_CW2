@@ -1,4 +1,3 @@
-<<<<<<< HEAD:.gitignore
 .venv/
 __pycache__/
 .ipynb_checkpoints/
@@ -9,16 +8,4 @@ DATA/app.db
 DATA/users.txt
 .streamlit/secrets.toml
 practice/
-=======
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-.pytest_cache/
-.DS_Store
-.env
-DATA/app.db
-DATA/users.txt
-.streamlit/secrets.toml
-practice/
->>>>>>> 8b438312ab966cf4b2f84e32cd939a75637df366:CST1510_CW2_W9/.gitignore
 *.ipynb
